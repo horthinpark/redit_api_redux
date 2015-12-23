@@ -1,0 +1,36 @@
+{
+  "name": "redit_api_redux",
+  "version": "1.0.0",
+  "description": "redit api redux app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horthinpark/redit_api_redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horthinpark/redit_api_redux/issues"
+  },
+  "homepage": "https://github.com/horthinpark/redit_api_redux#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-redux": "^4.0.3",
+    "redux": "^3.0.5",
+    "redux-logger": "^2.3.1",
+    "redux-thunk": "^1.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.21",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "node-static": "^0.7.7",
+    "webpack": "^1.12.9"
+  }
+}
